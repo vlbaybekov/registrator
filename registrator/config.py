@@ -1,0 +1,5 @@
+DB_HOST = '192.168.0.24'
+DB_PORT = '5432'
+DB_NAME = 'registrator'
+DB_USERNAME = 'registrator_adm'
+DB_PASSWORD = '123123'
